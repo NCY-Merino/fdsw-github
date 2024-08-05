@@ -3,3 +3,5 @@
 se cambia logotipo de Olivia
 # 0.0.2
 Se actualiza la información acerca de mi
+# 0.0.3
+Se actualiza titulos de mis trabajos
