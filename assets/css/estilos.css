@@ -37,3 +37,10 @@ body {
   }
 
 }
+
+.name-logo {
+  font-weight: 700;
+  font-size: 24px;
+  color: white;
+  text-transform:  uppercase;
+}
