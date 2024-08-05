@@ -7,3 +7,5 @@ Se actualiza la información acerca de mi
 Se actualiza titulos de mis trabajos
 # 0.0.4
 Se actualiza información de contacto y formulario
+# 0.0.5
+Se cambia color principal e información de footer

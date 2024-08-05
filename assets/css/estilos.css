@@ -24,7 +24,7 @@ body {
 
 #Contacto form label {
   font-weight: 700;
-  color: #373a3c;
+  color: #700c63;
 }
 
 @media (max-width: 768px) {
@@ -43,4 +43,32 @@ body {
   font-size: 24px;
   color: white;
   text-transform:  uppercase;
+}
+
+.btn-info {
+  background-color: #700c63;
+    border-color: #700c63;
+}
+
+.btn-info:hover {
+  background-color: #c208a9;
+    border-color: #c208a9;
+}
+
+.btn-outline-info {
+  color: #700c63;
+  border-color: #700c63;
+}
+
+.btn-outline-info:hover {
+  background-color: #700c63;
+  border-color: #700c63;
+}
+
+.bg-info {
+  background-color: #700c63!important;
+}
+
+i {
+  color: #700c63;
 }
