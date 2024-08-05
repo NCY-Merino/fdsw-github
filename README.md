@@ -9,3 +9,5 @@ Se actualiza titulos de mis trabajos
 Se actualiza información de contacto y formulario
 # 0.0.5
 Se cambia color principal e información de footer
+# 0.0.6
+correción de ortografia
